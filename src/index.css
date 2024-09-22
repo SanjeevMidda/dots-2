@@ -14,7 +14,7 @@
 
 .App {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
   min-height: 100dvh;
   flex-direction: column;
